@@ -1,0 +1,27 @@
+.App {
+  max-width: 960px;
+  margin: 40px auto;
+}
+
+.App input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #eeeeee;
+  font-size: 16px;
+}
+
+.InputWrapper {
+  display: flex;
+  align-items: stretch;
+  box-shadow: 4px 4px 12px #eeeeee;
+  margin-top: 45px;
+}
+
+.InputWrapper button {
+  background: white;
+  border: 1px solid #eeeeee;
+  border-left: 0;
+  font-size: 16px;
+}
+
+.myLink { color: blue; margin: 10px; }
